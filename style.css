@@ -320,4 +320,9 @@ top: 0;
   width: 100vw;
   margin: 0;
 }
+#about img{
+  visibility: hidden;
+  height: 0;
+  width: 0;
+  }
 }
